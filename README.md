@@ -21,4 +21,4 @@ B2: Nhấn chọn nút để kích hoạt API
 
 B3: Nhấn vào vị trí bất kỳ
 
-![image](https://github.com/pd-lam/Fullscreen-API-Attack/blob/main/img/222461844-df0395e1-720b-4baf-84ad-18d3dfb278a3.png)
+![image](https://github.com/pd-lam/Fullscreen-API-Attack/blob/main/img/222461844-df0395e1-720b-4baf-84ad-18d3dfb278a1.png)
